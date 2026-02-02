@@ -53,6 +53,3 @@ VectorBasedAnalysisR/
 - Practice spatial operations like st_intersection(), st_union(), and st_difference()
 - Visualize and explore spatial data using tmap v4
 - Gain hands-on experience with real-world U.S. vector data
-
-
-Let me know if you’d like to add **examples with screenshots** or a **section on contributing**!
